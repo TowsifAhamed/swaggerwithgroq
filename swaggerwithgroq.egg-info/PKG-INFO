@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: swaggerwithgroq
-Version: 0.1.0
+Version: 0.0.2
 Summary: Generate realistic API data from Swagger json using Groq
 Home-page: https://github.com/TowsifAhamed/swaggerwithgroq/
 Author: Towsif Ahamed Labib
