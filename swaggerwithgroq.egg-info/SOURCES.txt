@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+swaggerwihgroq/__init__.py
+swaggerwihgroq/generate_data.py
+swaggerwithgroq.egg-info/PKG-INFO
+swaggerwithgroq.egg-info/SOURCES.txt
+swaggerwithgroq.egg-info/dependency_links.txt
+swaggerwithgroq.egg-info/requires.txt
+swaggerwithgroq.egg-info/top_level.txt
